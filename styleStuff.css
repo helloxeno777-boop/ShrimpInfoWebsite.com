@@ -6,6 +6,6 @@ body {
   background-color: lightblue;
 }
 
-*:hover:focus {
+*:hover {
   color: #800080
 }
