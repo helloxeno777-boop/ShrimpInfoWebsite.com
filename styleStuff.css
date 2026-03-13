@@ -6,3 +6,6 @@ body {
   background-color: lightblue;
 }
 
+*:hover:focus {
+  color: darkpurple
+}
