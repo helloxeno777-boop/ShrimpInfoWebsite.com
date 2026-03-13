@@ -6,6 +6,6 @@ body {
   background-color: lightblue;
 }
 
-p:hover {
+*:hover {
   color: purple !important
 }
