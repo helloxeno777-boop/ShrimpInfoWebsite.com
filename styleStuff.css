@@ -7,5 +7,5 @@ body {
 }
 
 p:hover {
-  color: #800080
+  color: purple !important
 }
