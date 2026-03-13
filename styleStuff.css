@@ -3,6 +3,7 @@
   color: maroon;
 }
 body {
+  margin: 20px
   background-color: lightblue;
 }
  
@@ -10,4 +11,4 @@ body {
   color: purple !important
 }
 
-margin: 20px
+
