@@ -6,9 +6,14 @@ body {
   margin: 20px;
   background-color: lightblue;
 }
+
+#WebsiteIntro {
+  border: 1px dotted green;
+  border-radius: 1px;
+}
  
 *:hover {
-  color: purple !important
+  color: purple !important;
 }
 
 
