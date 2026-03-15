@@ -16,6 +16,7 @@ body {
   border-radius: 25px;
   padding: 4px;
   width: 460px;
+  margin: 0 auto;
 }
  
 *:hover {
