@@ -3,8 +3,9 @@
   color: maroon;
 }
 body {
-  margin: 20px;
+  margin: 0 auto;
   background-color: lightblue;
+  text-align: center;
 }
 
 #WebsiteIntro {
