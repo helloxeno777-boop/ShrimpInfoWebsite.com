@@ -10,7 +10,9 @@ body {
 #WebsiteIntro {
   border: 1px dotted green;
   border-radius: 25px;
-  padding: 25px;
+  padding: 4px;
+  width: 460px
+  text-align: center;
 }
  
 *:hover {
