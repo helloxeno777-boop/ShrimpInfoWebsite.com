@@ -3,8 +3,11 @@
   color: maroon;
 }
 body {
+  background-color: 0 auto: lightblue;
+}
+
+#Indexpage {
   margin: 0 auto;
-  background-color: lightblue;
   text-align: center;
 }
 
@@ -13,7 +16,6 @@ body {
   border-radius: 25px;
   padding: 4px;
   width: 460px;
-  text-align: center;
 }
  
 *:hover {
