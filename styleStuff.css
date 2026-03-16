@@ -59,3 +59,8 @@ body {
   font-size: 5px;
   font-weight="2";
 }
+
+#Factpg {
+  background: linear-gradient(180deg, green, lightblue);
+  height: 1000px;
+}
