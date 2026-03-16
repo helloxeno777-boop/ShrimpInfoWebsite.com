@@ -12,6 +12,8 @@ body {
   background-color: grey;
   width: 1000px;
   height: 1100px;
+  min-width: 200px;
+  max-width: 2000px;
 }
 
 #WebsiteIntro {
@@ -33,4 +35,18 @@ body {
  
 *:hover {
   color: purple !important;
+}
+
+#vid1 {
+  border: 13px inset lightgreen;
+  width: 620px;
+  height: 400px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+#vid1bottomtext {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
 }
