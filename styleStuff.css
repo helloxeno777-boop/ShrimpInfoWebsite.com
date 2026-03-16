@@ -19,6 +19,10 @@ body {
   margin: 0 auto;
   color: #AC2222;
 }
+
+#Img1 {
+  border: 3px double green;
+}
  
 *:hover {
   color: purple !important;
