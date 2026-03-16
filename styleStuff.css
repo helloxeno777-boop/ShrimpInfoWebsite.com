@@ -5,8 +5,8 @@
   font-size: 22px;
 }
 body {
-  background: linear-gradient(180deg, lightblue, blue);
-}
+  background: linear-gradient(360deg, #2929CE, lightblue);
+  }
 
 #Indexpage {
   margin: 0 auto;
