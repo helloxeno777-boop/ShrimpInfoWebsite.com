@@ -24,9 +24,8 @@ body {
 }
 
 #Img1 {
-  border: 20px double green;
+  border: 14px double #0EC316;
   margin: 0 auto;
-  padding: 320 320;
   width: 740px;
   height: 530px;
   text-align: center;
