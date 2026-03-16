@@ -3,13 +3,13 @@
   color: maroon;
 }
 body {
-  background-color: lightblue;
+  background: linear-gradient(180deg, lightblue, blue);
 }
 
 #Indexpage {
   margin: 0 auto;
   text-align: center;
-  background-color: grey;
+  background: linear-gradient(360deg, red 00%, white 20%, grey 100%);
   width: 1000px;
   height: 1100px;
   min-width: 200px;
