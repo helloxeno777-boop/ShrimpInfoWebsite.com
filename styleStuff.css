@@ -12,11 +12,12 @@ body {
 }
 
 #WebsiteIntro {
-  border: 1px dotted green;
+  border: 3px dotted green;
   border-radius: 25px;
   padding: 4px;
   width: 460px;
   margin: 0 auto;
+  color: #AC2222;
 }
  
 *:hover {
