@@ -21,11 +21,14 @@ body {
 }
 
 #Img1 {
-  border: 3px double green;
+  border: 10px double green;
+  margin: 0 auto;
+  padding: 320 320;
+  width: 740px;
+  height: 530px;
+  text-align: center;
 }
  
 *:hover {
   color: purple !important;
 }
-
-
