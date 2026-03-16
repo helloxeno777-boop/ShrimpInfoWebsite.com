@@ -10,7 +10,8 @@ body {
   margin: 0 auto;
   text-align: center;
   background-color: grey;
-  width: 800;
+  width: 1000px;
+  height: 1100px;
 }
 
 #WebsiteIntro {
