@@ -6,6 +6,7 @@
 }
 body {
   background: linear-gradient(360deg, #2929CE, lightblue);
+  overflow: scroll;
   }
 
 #Indexpage {
