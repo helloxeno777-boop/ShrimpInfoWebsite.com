@@ -73,5 +73,6 @@ body {
 }
 
 #fishin {
+  position: fixed;
   height: 1000px;
 }
