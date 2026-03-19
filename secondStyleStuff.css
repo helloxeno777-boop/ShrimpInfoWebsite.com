@@ -1,0 +1,109 @@
+qbody {
+  margin: 0;
+  height: 10000px;
+  width: 800px;
+  max-width: 1000px;
+  min-width: 800px;
+}
+
+.wrapper {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 800px;
+  max-width: 1000px;
+} 
+body {
+  background-color: hsl(60, 100%, 80%);
+  min-height: 20000px;
+  overflow: scroll;
+}
+#Creatorpg {
+  font-family: 'Times New Roman';
+  text-align: center;
+  position: sticky;
+  top: 20px;
+}
+
+#creatorPG {
+  font-family: Gabriola;
+  font-size: 80px;
+  color: #6027a9;
+  text-align: center;
+  position: sticky;
+  top: 40px;
+}
+
+#lefta1 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: left;
+}
+
+#righta2 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: right;
+}
+
+#lefta3 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: left;
+}
+
+#righta5 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: right;
+}
+
+#righta4 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: right;
+}
+
+
+#lefta6 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: left;
+
+}
+
+#lefta7 {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5F5353;
+  float: left;
+}
+
+#sercetA {
+  font-family: 'Times New Roman';
+  position: relative;
+  top: 19500px;
+  font-size: 30px;
+  color: #5A5353;
+  float: right;
+}
