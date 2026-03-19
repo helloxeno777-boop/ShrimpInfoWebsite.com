@@ -60,7 +60,7 @@ body {
 }
 
 #Factpg {
-  background: linear-gradient(180deg, green, lightblue);
+  background: linear-gradient(180deg, green, rgb(160, 82, 45));
   height: 1000px;
 }
 
