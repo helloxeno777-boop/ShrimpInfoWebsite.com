@@ -6,7 +6,6 @@
 }
 body {
   background: linear-gradient(360deg, #2929CE, lightblue);
-  overflow: scroll;
   }
 
 #Indexpage {
@@ -67,12 +66,14 @@ body {
 
 #shrimo {
   position: relative;
-  bottom: 1000px;
-  left: 500px;
-  font-size: 6px;
+  bottom: 1060px;
+  left: 280px;
+  font-size: 2px;
+  opacity: 30%;
+  transform: rotate(-45deg);
 }
 
 #fishin {
-  position: fixed;
-  height: 1000px;
 }
+body #fishin {
+  }
