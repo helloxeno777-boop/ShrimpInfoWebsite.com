@@ -1,18 +1,4 @@
-qbody {
-  margin: 0;
-  height: 10000px;
-  width: 800px;
-  max-width: 1000px;
-  min-width: 800px;
-}
-
-.wrapper {
-  position: relative;
-  margin: auto;
-  padding: 0;
-  width: 800px;
-  max-width: 1000px;
-} 
+ 
 body {
   background-color: hsl(60, 100%, 80%);
   min-height: 20000px;
@@ -28,10 +14,11 @@ body {
 #creatorPG {
   font-family: Gabriola;
   font-size: 80px;
-  color: #6027a9;
+  color: #000;
   text-align: center;
   position: sticky;
   top: 40px;
+  text-shadow: 5px 4px #6ae120;
 }
 
 #lefta1 {
@@ -41,6 +28,7 @@ body {
   font-size: 30px;
   color: #5F5353;
   float: left;
+  animation: u 4s infinite;
 }
 
 #righta2 {
@@ -49,7 +37,8 @@ body {
   top: 19500px;
   font-size: 30px;
   color: #5F5353;
-  float: right;
+  float: right;  
+  animation: u 4.1s infinite;
 }
 
 #lefta3 {
@@ -58,7 +47,8 @@ body {
   top: 19500px;
   font-size: 30px;
   color: #5F5353;
-  float: left;
+  float: left;  
+  animation: u 4.6s infinite;
 }
 
 #righta5 {
@@ -67,7 +57,8 @@ body {
   top: 19500px;
   font-size: 30px;
   color: #5F5353;
-  float: right;
+  float: right;  
+  animation: u 4.8s infinite;
 }
 
 #righta4 {
@@ -76,7 +67,8 @@ body {
   top: 19500px;
   font-size: 30px;
   color: #5F5353;
-  float: right;
+  float: right;  
+  animation: u 4.2s infinite;
 }
 
 
@@ -86,8 +78,8 @@ body {
   top: 19500px;
   font-size: 30px;
   color: #5F5353;
-  float: left;
-
+  float: left;  
+  animation: u 5s infinite;
 }
 
 #lefta7 {
@@ -97,6 +89,7 @@ body {
   font-size: 30px;
   color: #5F5353;
   float: left;
+  animation: u 4.3s infinite;
 }
 
 #sercetA {
@@ -106,4 +99,21 @@ body {
   font-size: 30px;
   color: #5A5353;
   float: right;
+  animation: u 4.9s infinite;
+}
+
+#all-as {
+  display: inline-block;
+}
+
+@keyframes u {
+    0% {
+        transform: translate(0, 0) rotate(0deg) scale(1, 1);
+    }
+    50% {
+        transform: translate(0, -1000px) rotate(360deg) scale(1, 4.6); 
+    }
+    100% {
+        transform: translate(0, 0) rotate(0deg) scale(1, 1);
+    }
 }
