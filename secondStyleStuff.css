@@ -104,6 +104,7 @@ body {
 
 #all-as {
   display: inline-block;
+ animation: u 1s infinite;
 }
 
 @keyframes u {
