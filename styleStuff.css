@@ -74,5 +74,18 @@ body {
 
 #fishin {
 }
-body #fishin {
+body, #fishin {
   }
+
+
+
+#secret45 {
+    position: relative;
+    top: 500px;
+    left: 764px;
+    opacity: 3%;
+    
+    
+
+  
+}
