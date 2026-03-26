@@ -3,9 +3,9 @@ body {
 }
 #secretattackshrimp {
   display: inline-block;
-  animation: min3slideattack 1s forwards;
+  animation: min3slideattack 60s forwards;
 }
 @keyframes min3slideattack {
-  0% {transform: translate(8000px, 0);}
+  0% {transform: translate(-8000px, 0);}
   100% {transform: translate(0, 0)}
 }
