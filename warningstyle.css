@@ -1,4 +1,12 @@
 body {
   background-image: image532.png;
+  overflow: hidden;
 }
-,
+#secretattackshrimp {
+  display: inline-block;
+  animation: min3slideattack 180s;
+}
+@keyframes min3slideattack {
+  0% {transform: translate(-800px, 0);}
+  100% {transform: translate(800px, 0)}
+}
