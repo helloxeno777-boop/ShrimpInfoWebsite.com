@@ -6,6 +6,6 @@ body {
   animation: min3slideattack 60s forwards;
 }
 @keyframes min3slideattack {
-  0% {transform: translate(8000px, 0);}
+  0% {transform: translate(3000px, 0);}
   100% {transform: translate(0, 0)}
 }
