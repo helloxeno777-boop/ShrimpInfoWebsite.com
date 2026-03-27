@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(45deg,
+  yellow 0%,
+  black 10%,
+  yellow 20%,
+  black 30%,
+  yellow 40%,
+  black 50%,
+  yellow 60%,
+  black 70%,
+  yellow 80%,
+  black 90%,
+  yellow 100%
+    );
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+  height: 1000px;
+   width: 700px;
+
+}
+
+h1 {
+  color: rgba(255, 255, 255, 0.99);
+  font-size: 80px;
+  
+}
+
+h2 {
+  margin: 0 auto;
+}
