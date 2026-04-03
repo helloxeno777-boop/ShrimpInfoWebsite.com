@@ -4,7 +4,7 @@
   font-size: 22px;
 }
 body {
-  background: linear-gradient(360deg, orange, darkorange);
+  background: linear-gradient(75deg, #800000, #0000cc);
   }
 
 #Indexpage {
@@ -17,7 +17,7 @@ body {
 }
 
 #WebsiteIntro {
-  border: 3px dotted ;
+  border: 3px dotted #75ffbd;
   border-radius: 25px;
   padding: 4px;
   width: 460px;
@@ -40,7 +40,7 @@ body {
 }
 
 #vid1 {
-  border: 13px inset lightgreen;
+  border: 13px inset #6685f5;
   width: 620px;
   height: 400px;
   margin: 0 auto;
