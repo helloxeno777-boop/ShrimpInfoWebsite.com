@@ -1,0 +1,25 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+</head>
+<body>
+  <h1>Secret page with music I made.</h1>
+  <h2>Click anywhere on the page except the anchor element to play Mantic.</h2>
+  <h3>Please don't steal...</h3>
+  <br>
+  <br>
+  <h3><a href="./index.html">Click here to leave</a></h3>
+<audio autoplay loop>
+    <source src="background.mp3" type="audio/mpeg">
+    <source src="background.wav" type="audio/wav">
+</audio>
+<script>
+  const audio = document.getElementById("bgMusic");
+
+  document.addEventListener("click", () => {
+    audio.play();
+  }, { once: true });
+</script>
+</body>
