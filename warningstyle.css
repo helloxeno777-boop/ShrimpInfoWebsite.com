@@ -1,5 +1,8 @@
 body {
   overflowX: hidden;
+  color: #ffffff;
+  font-family: 'Times New Roman', serif;
+  background-color: #000000;
 }
 #secretattackshrimp {
   display: inline-block;
